@@ -5,7 +5,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("Your Desktop", "你的桌面"),
         ("desk_tip", "你的桌面可以通过下面的 ID 和密码访问。"),
         ("Password", "密码"),
-        ("Ready", "你已连接至茶冰-北京服务器"),
+        ("Ready", "就绪"),
         ("Established", "已建立"),
         ("connecting_status", "正在接入 RustDesk 网络..."),
         ("Enable service", "允许服务"),
